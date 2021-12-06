@@ -1,10 +1,10 @@
 {
   "SlideShow":
   [
-    {"restaurantImage": "https://github.com/SparkyCD/IT315/blob/main/shio.png", "restaurantDescription": "Shio", "restaurantSite": "https://santouka-usa.com/", "category":
-     "Menu Item"}, {"restaurantImage": "https://github.com/SparkyCD/IT315/blob/main/shoyu.png", "restaurantDescription": "Shoyu", "restaurantSite": "https://santouka-usa.com/", "category":
-     "Menu Item"}, {"restaurantImage": "https://github.com/SparkyCD/IT315/blob/main/miso.png", "restaurantDescription": "Miso", "restaurantSite": "https://santouka-usa.com/", "category":
-     "Menu Item"}, {"restaurantImage": "https://github.com/SparkyCD/IT315/blob/main/logo.jpg", "restaurantDescription": "About Us", "restaurantSite": "https://santouka-usa.com/", "category":
+    {"restaurantImage": "https://raw.githubusercontent.com/SparkyCD/IT315/main/shio.png", "restaurantDescription": "Shio", "restaurantSite": "https://santouka-usa.com/", "category":
+     "Menu Item"}, {"restaurantImage": "https://raw.githubusercontent.com/SparkyCD/IT315/main/shoyu.png", "restaurantDescription": "Shoyu", "restaurantSite": "https://santouka-usa.com/", "category":
+     "Menu Item"}, {"restaurantImage": "https://raw.githubusercontent.com/SparkyCD/IT315/main/miso.png", "restaurantDescription": "Miso", "restaurantSite": "https://santouka-usa.com/", "category":
+     "Menu Item"}, {"restaurantImage": "https://raw.githubusercontent.com/SparkyCD/IT315/main/logo.jpg", "restaurantDescription": "About Us", "restaurantSite": "https://santouka-usa.com/", "category":
      "History"}
    ],
   "status":"ok"
